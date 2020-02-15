@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(129, 158, 158);
+    justify-content: space-between;
+    font-size: 50px;
+}
+.flex{
+    display: flex;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    
+   background-color:blue;
+   margin: 1px;
+}
+.subbox{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
